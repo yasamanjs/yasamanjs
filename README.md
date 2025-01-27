@@ -62,42 +62,11 @@ I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of exp
 - Developed an adaptive encoding method for categorical features, leveraging **domain-specific physics** to improve feature representation. Enhanced prediction accuracy with **R² increasing to 0.94** compared to traditional one-hot encoding.
 - Validated improvements using advanced statistical methods, including **Student’s t-test (P-values < 1e-10)**, **Leave-One-Out Cross-Validation (LOOCV)**, and robust random seed testing, ensuring reliable machine learning performance across diverse datasets.
 
-### 5. Spark MLOps Fundamentals Demo Project
+### 5. [Spark MLOps Fundamentals Demo Project](https://github.com/yasamanjs/spark-mlops-demo)
+A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML workflow:
+- **Data Processing**: Uses **PySpark** to ingest and clean the Titanic dataset (optionally fetched from Azure Blob Storage).  
+- **Model Training**: Implements a basic **Logistic Regression** with **PySpark MLlib**, validating performance on a test set.  
+- **Experiment Tracking**: Logs metrics and parameters via **MLFlow**, enabling easy comparison of different runs.  
+- **CI/CD Pipeline**: Employs **GitHub Actions** to automatically test notebook executions (via Papermill) on each commit or pull request, ensuring reproducibility and quick feedback.
 
-**Repository Link**: [Spark MLOps Fundamentals Demo](https://github.com/yasamanjs/spark-mlops-demo)
 
-This project demonstrates the **end-to-end MLOps workflow** for a simple machine learning application using **PySpark**, **MLFlow**, and **GitHub Actions** for continuous integration:
-
-- **Data Acquisition & ETL**:  
-  - Reads Titanic dataset (from local or Azure cloud storage).  
-  - Cleans, preprocesses, and explores data using **Spark**.
-
-- **Model Training**:  
-  - Trains a basic **Logistic Regression** model with **PySpark MLlib**.  
-  - Evaluates performance (accuracy, AUC) on a test set.
-
-- **Experiment Tracking (MLFlow)**:  
-  - Optionally logs metrics, parameters, and artifacts to MLFlow.  
-  - Can run `mlflow ui` locally to inspect runs and compare model versions.
-
-- **CI with GitHub Actions**:  
-  - Automates checks on every commit/pull request.  
-  - Installs dependencies, executes Jupyter notebooks in headless mode (**Papermill**), and reports pass/fail status.  
-  - Uploads executed notebooks as “Artifacts” for quick review.
-
-**Key Technologies**  
-- **PySpark** for distributed data processing.  
-- **Papermill** to automate notebook execution.  
-- **GitHub Actions** for CI/CD.  
-- **MLFlow** for experiment tracking (metrics, parameters, model artifacts).
-
-**Why It Matters**  
-- Illustrates how data scientists/ML engineers can seamlessly integrate data prep, model training, and deployment checks in a single pipeline.  
-- Encourages reproducibility and collaboration via automated testing and artifact logging.  
-
-**Usage**  
-1. Clone the repo and run the notebooks locally, or  
-2. Rely on GitHub Actions to automatically run notebooks each time you commit.  
-3. Review the pipeline logs and artifacts under your repository’s “Actions” tab.
-
-This demo provides a foundational blueprint for **scalable data science workflows**, bridging the gap between **model prototyping** and **production-ready MLOps** practices.
