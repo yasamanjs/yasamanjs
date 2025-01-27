@@ -62,6 +62,8 @@ I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of exp
 - Developed an adaptive encoding method for categorical features, leveraging **domain-specific physics** to improve feature representation. Enhanced prediction accuracy with **R² increasing to 0.94** compared to traditional one-hot encoding.
 - Validated improvements using advanced statistical methods, including **Student’s t-test (P-values < 1e-10)**, **Leave-One-Out Cross-Validation (LOOCV)**, and robust random seed testing, ensuring reliable machine learning performance across diverse datasets.
 
+---
+
 ### 5. [Spark MLOps Fundamentals Demo Project](https://github.com/yasamanjs/spark-mlops-demo)
 A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML workflow:
 - **Data Processing**: Uses **PySpark** to ingest and clean the Titanic dataset (optionally fetched from Azure Blob Storage).  
