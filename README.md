@@ -5,6 +5,7 @@
 I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of experience in **programming**, **machine learning**, and **big data analysis**. Currently pursuing a Ph.D. in **Systems Engineering**, my work focuses on solving complex, data-driven challenges through advanced analytics, optimization, and artificial intelligence.
 
 
+
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Yasaman J. Soofi](https://www.linkedin.com/in/yasaman-j-soofi-3b779a85/)
