@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of experience in **programming**, **machine learning**, and **big data analysis**. Currently pursuing a Ph.D. in **Systems Engineering**, my work focuses on solving complex, data-driven challenges through advanced analytics, optimization, and artificial intelligence.
+I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of experience in **programming**, **machine learning**, and **big data analysis**. With a Ph.D. in **Systems Engineering**, my work focuses on solving complex, data-driven challenges through advanced analytics, optimization, and artificial intelligence.
 
 
 
