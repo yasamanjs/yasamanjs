@@ -44,7 +44,6 @@ I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of exp
 - Built interactive **agents** using **LangGraph**, modeled like a smart cafe chatbot with tool-calling and user flow control.
 - Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
 - **Fine-tuned** Gemini models using labeled data to perform custom classification tasks with significantly improved token efficiency and performance.
-- Each notebook follows a clear instructional format to demonstrate GenAI principles in action and build reusable patterns for real-world applications.
 
 ---
 
