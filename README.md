@@ -60,7 +60,7 @@ I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of exp
 
 ---
 
-### 5. [Spark MLOps Fundamentals Demo Project](https://github.com/yasamanjs/spark-mlops-demo)
+### 5. [CI/CD-Integrated Spark MLOps Pipeline (Titanic Case Study)](https://github.com/yasamanjs/spark-mlops-demo)
 A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML workflow:
 - **Data Processing**: Uses **PySpark** to ingest and clean the Titanic dataset (optionally fetched from Azure Blob Storage).  
 - **Model Training**: Implements a basic **Logistic Regression** with **PySpark MLlib**, validating performance on a test set.  
