@@ -14,16 +14,12 @@ I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of exp
 
 ## 🧑‍💻 My Expertise
 
-### **Core Skills**
-- 💻 **Programming Languages**: Python, R, SQL, MATLAB, Bash
-- 🤖**Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning (ANN, CNN, RNN, LSTM, GANs), Bayesian Inference, Reinforcement Learning, NLP, Large Language Models (LLMs)
-- 📈**Data Science**: Predictive Modeling, Data Engineering, Data Visualization (Matplotlib, Seaborn, Power BI)
-- ☁️**Cloud & Tools**: AWS, Docker, CWL, Kubernetes, HPC Clusters, Git
+- 💻 **Programming Languages & Frameworks**: Python, R, SQL, MATLAB, Bash, Pandas, Numpy, TensorFlow, PyTorch, Scikit-learn, Keras
+- 📈 **Data Science**: Predictive Modeling, Data Engineering, Data Visualization (Matplotlib, Seaborn, Power BI)
+- 🔄 **Workflow Automation**: CWL, Docker, Containerization, API Integration , HPC, AWS, Git
+- 🤖 **Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning (ANN, CNN, RNN, LSTM, GANs), Bayesian Inference, Reinforcement Learning, NLP, Large Language Models (LLMs)
+- 🧠 **GenAI Tooling**: Google Gemini API, LangChain & LangGraph, Function Calling, Search Groundin*, Embeddings, RAG, Vector Search, Model Fine-Tuning (PEFT), Prompt Engineering
 
-### **Key Technologies**
-- 🌟 **ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras
-- 📊 **Data Manipulation**: Pandas, Numpy, BeautifulSoup, Selenium
-- 🔄 **Workflow Automation**: CWL, Nextflow, API Integration
 
 ---
 
