@@ -1,4 +1,4 @@
-# Hi, I'm Yasi Soofi 
+# Hi, I'm Yasaman Soofi 
 
 ### 🎯 Applied ML Researcher and Data Scientist (PhD)
 
