@@ -1,9 +1,9 @@
-# Hi, I'm Yasaman J. Soofi 
+# Hi, I'm Yasi Soofi 
 
 ## 🚀 About Me
 
-I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of experience in **programming**, **machine learning**, and **big data analysis**. With a Ph.D. in **Systems Engineering**, my work focuses on solving complex, data-driven challenges through advanced analytics, optimization, and artificial intelligence.
-
+I am an **Applied Machine Learning Researcher** with a PhD in Systems Engineering, focusing on **developing predictive models**, **designing scientific experiments**, and **building scalable data and AI systems**.  
+My work sits at the intersection of **machine learning**, **optimization**, and **large-scale data workflows**, with a strong emphasis on **rigor, reproducibility, and real-world impact**.
 
 
 ## 📫 Let's Connect
@@ -15,10 +15,10 @@ I am a **Data Scientist** and **Machine Learning Engineer** with 9+ years of exp
 ## 🧑‍💻 My Expertise
 
 - 💻 **Programming Languages & Frameworks**: Python, R, SQL, MATLAB, Bash, Pandas, Numpy, TensorFlow, PyTorch, Scikit-learn, Keras
-- 📈 **Data Science**: Predictive Modeling, Data Engineering, Data Visualization (Matplotlib, Seaborn, Power BI)
-- 🔄 **Workflow Automation**: CWL, Docker, Containerization, API Integration , HPC, AWS, Git
-- 🤖 **Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning (ANN, CNN, RNN, LSTM, GANs), Bayesian Inference, Reinforcement Learning, NLP, Large Language Models (LLMs)
-- 🧠 **GenAI Tooling**: Google Gemini API, LangChain & LangGraph, Function Calling, Search Groundin*, Embeddings, RAG, Vector Search, Model Fine-Tuning (PEFT), Prompt Engineering
+- 📈 **ML/AI**: scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, SVM, ANN, NLP/LLMs, Bayesian inference
+- 🔄 **Data & Pipelines**: Pandas, NumPy, Spark, Hadoop, ETL, data visualization (Matplotlib, Seaborn, Tableau, Power BI)
+- 🤖 **Optimization**: OR-Tools CP-SAT, Gurobi, MILP, heuristic optimization
+- 🧠 **Cloud & Systems**: AWS, Azure, GCP, Docker, CWL, GPU/CUDA, Linux, Git, API integration, FastAPI
 
 
 ---
