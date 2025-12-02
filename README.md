@@ -1,6 +1,6 @@
 # Hi, I'm Yasi Soofi 
 
-### 🎯 Applied ML Researcher • Machine Learning Engineer • Data Scientist (PhD)
+### 🎯 Applied ML Researcher and Data Scientist (PhD)
 
 I am an **Applied Machine Learning Researcher** with a PhD in Systems Engineering, focusing on **developing predictive models**, **designing scientific experiments**, and **building scalable data and AI systems**.  
 My work sits at the intersection of **machine learning**, **optimization**, and **large-scale data workflows**, with a strong emphasis on **rigor, reproducibility, and real-world impact**.
