@@ -28,7 +28,7 @@ My work focuses on translating unstructured and multimodal data into actionable 
 ## 📚 Academic Background
 
 - **Ph.D. in Systems Engineering** | Missouri University of Science and Technology
-  - Focus: Machine Learning, Data Analytics, Optimization
+  - Focus: Machine Learning, Statistical Analysis, Optimization
 
 ---
 
