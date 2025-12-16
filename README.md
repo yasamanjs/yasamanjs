@@ -40,7 +40,7 @@ My work focuses on translating unstructured and multimodal data into actionable 
 
 ---
 
-### 2. MedBot — Generative AI Assistant for Medical NLP and Clinical Case Routing  
+### 2. [MedBot — Generative AI Assistant for Medical NLP and Clinical Case Routing ](https://github.com/yasamanjs/MedBot-A-GenAI-Powered-Assistant-for-Classifying-and-Responding-to-Medical-Transcriptions) 
 - Designed and implemented an **end-to-end Generative AI healthcare assistant** that analyzes **medical transcriptions and patient summaries**, classifies cases into clinical specialties (Urology, Nephrology, Other), and generates **context-aware next-step recommendations**.  
 - Applied **LLM prompt engineering and fine-tuning (Gemini API)** to build a domain-specific medical classifier, benchmarking **zero-shot vs fine-tuned performance** using **semantic embedding similarity** for evaluation.  
 - Built a **tool-augmented, multi-turn conversational system** using **LangGraph**, enabling dynamic routing between classification, follow-up questioning, and downstream tools (e.g., provider lookup, simulated case retrieval).  
@@ -48,7 +48,7 @@ My work focuses on translating unstructured and multimodal data into actionable 
 - Demonstrates applied **medical NLP, LLM orchestration, and agent-based system design** for healthcare decision support and patient-facing AI workflows.
 
 
-### 3.[Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
+### 3. [Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
 - A hands-on collection of GenAI experiments and capabilities developed during the **Kaggle x Google** Generative AI course:
 - Built interactive **agents** using **LangGraph**, modeled like a smart cafe chatbot with tool-calling and user flow control.
 - Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
