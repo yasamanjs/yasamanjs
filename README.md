@@ -85,7 +85,7 @@ A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML wor
 - Fine-tunes distilbert-base-uncased for binary classification and includes preprocessing, model training, evaluation, and custom predictions
 - Evaluates using accuracy, precision, recall, and F1-score and Contains a simple sentiment prediction function for new text
 
-###8.[Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
+### 8.[Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
 - A hands-on collection of GenAI experiments and capabilities developed during the **Kaggle x Google** Generative AI course:
 - Built interactive **agents** using **LangGraph**, modeled like a smart cafe chatbot with tool-calling and user flow control.
 - Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
