@@ -9,7 +9,8 @@ My work focuses on translating unstructured and multimodal data into actionable 
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Yasaman J. Soofi](https://www.linkedin.com/in/yasaman-j-soofi-3b779a85/)
+- **LinkedIn**: [Yasaman J. Soofi Linkedin](https://www.linkedin.com/in/yasaman-j-soofi-3b779a85/)
+- **Google Scholar**: [Yasaman J. Soofi Google Scholar](https://scholar.google.com/citations?user=zgosTygAAAAJ&hl=en)
 
 ---
 
