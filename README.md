@@ -16,7 +16,7 @@ My work focuses on translating unstructured and multimodal data into actionable 
 ## 🧑‍💻 My Expertise
 
 - 💻 **Programming Languages & Frameworks**: Python, R, SQL, MATLAB, Bash, Pandas, Numpy, TensorFlow, PyTorch, Scikit-learn, Keras
-- 📈 **ML/AI**: scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, SVM, ANN, NLP/LLMs, Bayesian inference
+- 📈 **ML/AI**: XGBoost, SVM, ANN, NLP, Transformers, LLMs, RAG, Fine-Tuning, Bayesian inference
 - 🔄 **Data & Pipelines**: Pandas, NumPy, Spark, Hadoop, ETL, data visualization (Matplotlib, Seaborn, Tableau, Power BI)
 - 🤖 **Optimization**: OR-Tools CP-SAT, Gurobi, MILP, heuristic optimization
 - 🧠 **Cloud & Systems**: AWS, Azure, GCP, Docker, CWL, GPU/CUDA, Linux, Git, API integration, FastAPI
