@@ -85,6 +85,8 @@ A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML wor
 - Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
 - **Fine-tuned** Gemini models using labeled data to perform custom classification tasks with significantly improved token efficiency and performance.
 
+---
+
 ### 8.  [Advanced Deep Learning Projects: GANs, RNNs, and CNNs for Real-World Applications](https://github.com/yasamanjs/Advanced-Deep-Learning-Projects-LLM-GANs-RNNs-and-CNNs-for-Real-World-Applications)
 - Developed and fine-tuned a transformer-based **large language model (LLM)**, **DistilBERT-base-uncased**, using Hugging Face on a custom **IMDb** dataset, optimized for real-time predictions.
 - Regenerated the **CIFAR-10 dataset** by building and training **GANs**, showcasing proficiency in generative modeling and data augmentation.
