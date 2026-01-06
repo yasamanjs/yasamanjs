@@ -63,27 +63,29 @@ My work focuses on translating unstructured and multimodal data into actionable 
 
 ---
 
-### 5. [CI/CD-Integrated Spark MLOps Pipeline (Titanic Case Study)](https://github.com/yasamanjs/spark-mlops-demo)
+### 5. [DistilBERT Sentiment Classifier with Hugging Face Transformers](https://github.com/yasamanjs/IMDB-sentiment-analysis-hugging-face)
+- Utilizes Hugging Face transformers and datasets libraries
+- Fine-tunes distilbert-base-uncased for binary classification and includes preprocessing, model training, evaluation, and custom predictions
+- Evaluates using accuracy, precision, recall, and F1-score and Contains a simple sentiment prediction function for new text
+
+
+---
+
+### 6. [Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
+- A hands-on collection of GenAI experiments and capabilities developed during the **Kaggle x Google** Generative AI course:
+- Built interactive **agents** using **LangGraph**, modeled like a smart cafe chatbot with tool-calling and user flow control.
+- Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
+- **Fine-tuned** Gemini models using labeled data to perform custom classification tasks with significantly improved token efficiency and performance.
+
+
+---
+
+### 7.   [CI/CD-Integrated Spark MLOps Pipeline (Titanic Case Study)](https://github.com/yasamanjs/spark-mlops-demo)
 A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML workflow:
 - **Data Processing**: Uses **PySpark** to ingest and clean the Titanic dataset (optionally fetched from Azure Blob Storage).  
 - **Model Training**: Implements a basic **Logistic Regression** with **PySpark MLlib**, validating performance on a test set.  
 - **Experiment Tracking**: Logs metrics and parameters via **MLFlow**, enabling easy comparison of different runs.  
 - **CI/CD Pipeline**: Employs **GitHub Actions** to automatically test notebook executions (via Papermill) on each commit or pull request, ensuring reproducibility and quick feedback.
-
----
-
-### 6.  [DistilBERT Sentiment Classifier with Hugging Face Transformers](https://github.com/yasamanjs/IMDB-sentiment-analysis-hugging-face)
-- Utilizes Hugging Face transformers and datasets libraries
-- Fine-tunes distilbert-base-uncased for binary classification and includes preprocessing, model training, evaluation, and custom predictions
-- Evaluates using accuracy, precision, recall, and F1-score and Contains a simple sentiment prediction function for new text
-
----
-
-### 7.  [Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
-- A hands-on collection of GenAI experiments and capabilities developed during the **Kaggle x Google** Generative AI course:
-- Built interactive **agents** using **LangGraph**, modeled like a smart cafe chatbot with tool-calling and user flow control.
-- Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
-- **Fine-tuned** Gemini models using labeled data to perform custom classification tasks with significantly improved token efficiency and performance.
 
 ---
 
@@ -93,3 +95,5 @@ A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML wor
 - Designed **RNNs** for stock market analysis, achieving high predictive accuracy with a **Mean Absolute Percentage Error (MAPE)** of **8%**.
 - Leveraged **LSTM networks** to forecast air quality indices, achieving an **R² score of 0.91**, enabling actionable environmental insights.
 - Built **CNN architectures** for CIFAR-10 image classification, achieving **85% accuracy** through advanced hyperparameter tuning and model optimization.
+
+- 
