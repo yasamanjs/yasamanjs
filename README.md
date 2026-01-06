@@ -95,5 +95,3 @@ A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML wor
 - Designed **RNNs** for stock market analysis, achieving high predictive accuracy with a **Mean Absolute Percentage Error (MAPE)** of **8%**.
 - Leveraged **LSTM networks** to forecast air quality indices, achieving an **R² score of 0.91**, enabling actionable environmental insights.
 - Built **CNN architectures** for CIFAR-10 image classification, achieving **85% accuracy** through advanced hyperparameter tuning and model optimization.
-
-- 
