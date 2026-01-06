@@ -72,22 +72,22 @@ A concise, end-to-end demonstration of **Spark-based MLOps** for a sample ML wor
 
 ---
 
-### 6. [Advanced Deep Learning Projects: GANs, RNNs, and CNNs for Real-World Applications](https://github.com/yasamanjs/Advanced-Deep-Learning-Projects-LLM-GANs-RNNs-and-CNNs-for-Real-World-Applications)
+### 6.  [DistilBERT Sentiment Classifier with Hugging Face Transformers](https://github.com/yasamanjs/IMDB-sentiment-analysis-hugging-face)
+- Utilizes Hugging Face transformers and datasets libraries
+- Fine-tunes distilbert-base-uncased for binary classification and includes preprocessing, model training, evaluation, and custom predictions
+- Evaluates using accuracy, precision, recall, and F1-score and Contains a simple sentiment prediction function for new text
+
+---
+
+### 7.  [Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
+- A hands-on collection of GenAI experiments and capabilities developed during the **Kaggle x Google** Generative AI course:
+- Built interactive **agents** using **LangGraph**, modeled like a smart cafe chatbot with tool-calling and user flow control.
+- Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
+- **Fine-tuned** Gemini models using labeled data to perform custom classification tasks with significantly improved token efficiency and performance.
+
+### 8.  [Advanced Deep Learning Projects: GANs, RNNs, and CNNs for Real-World Applications](https://github.com/yasamanjs/Advanced-Deep-Learning-Projects-LLM-GANs-RNNs-and-CNNs-for-Real-World-Applications)
 - Developed and fine-tuned a transformer-based **large language model (LLM)**, **DistilBERT-base-uncased**, using Hugging Face on a custom **IMDb** dataset, optimized for real-time predictions.
 - Regenerated the **CIFAR-10 dataset** by building and training **GANs**, showcasing proficiency in generative modeling and data augmentation.
 - Designed **RNNs** for stock market analysis, achieving high predictive accuracy with a **Mean Absolute Percentage Error (MAPE)** of **8%**.
 - Leveraged **LSTM networks** to forecast air quality indices, achieving an **R² score of 0.91**, enabling actionable environmental insights.
 - Built **CNN architectures** for CIFAR-10 image classification, achieving **85% accuracy** through advanced hyperparameter tuning and model optimization.
-
----
-
-### 7. [DistilBERT Sentiment Classifier with Hugging Face Transformers](https://github.com/yasamanjs/IMDB-sentiment-analysis-hugging-face)
-- Utilizes Hugging Face transformers and datasets libraries
-- Fine-tunes distilbert-base-uncased for binary classification and includes preprocessing, model training, evaluation, and custom predictions
-- Evaluates using accuracy, precision, recall, and F1-score and Contains a simple sentiment prediction function for new text
-
-### 8.[Hands-On Generative AI with Gemini](https://github.com/yasamanjs/Gemini-GenAI-Showcase)
-- A hands-on collection of GenAI experiments and capabilities developed during the **Kaggle x Google** Generative AI course:
-- Built interactive **agents** using **LangGraph**, modeled like a smart cafe chatbot with tool-calling and user flow control.
-- Explored few-shot prompting, structured output, **retrieval-augmented generation (RAG)**, search grounding, JSON mode, and **function calling** using the Gemini 1.5 API.
-- **Fine-tuned** Gemini models using labeled data to perform custom classification tasks with significantly improved token efficiency and performance.
